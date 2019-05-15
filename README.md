@@ -1,1 +1,3 @@
-# NIM_WEB_SDK
+#  NIM_WEB_SDK_TS
+
+NIM_Web_SDK-6.4.0、NIM_Web_NIM-6.4.0的ts声明
